@@ -9,4 +9,4 @@ class photo(loader.Module):
     if message.out: 
         await message.delete() 
     avait message.respond(  
-        f*<a href="https://t.me/userbotik/77"‹/a>. )
+        f*<a href="https://t.me/userbotik/77"</a>. )
